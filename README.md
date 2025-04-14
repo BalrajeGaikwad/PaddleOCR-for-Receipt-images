@@ -1,4 +1,5 @@
-PaddleOCR for Receipt Images
+**PaddleOCR for Receipt Images**
+
 This project leverages PaddleOCR, an open-source Optical Character Recognition (OCR) tool, to process receipt images and extract text data from them. The goal of this project is to help automate the extraction of key information from receipts such as store names, dates, itemized lists, prices, and totals.
 
 Features
